@@ -1,0 +1,9 @@
+INFO:root:python3 best.py
+INFO:root:Running full program
+INFO:root:Kp_gain: 1.3
+INFO:root:Ki_gain: 0.01
+INFO:root:Generating trajectory
+INFO:root:Finished generating trajectory
+INFO:root:Generating full configuration csv file
+INFO:root:Generating Xerr csv file
+INFO:root:Plotting Xerr

@@ -1,0 +1,9 @@
+python3 overshoot.py
+Running full program
+Kp_gain: 2
+Ki_gain: 7
+Generating trajectory
+Finished generating trajectory
+Generating full configuration csv file
+Generating Xerr csv file
+Plotting Xerr
