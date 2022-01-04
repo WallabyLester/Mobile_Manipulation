@@ -1,9 +1,0 @@
-python3 newTask.py
-Running full program
-Kp_gain: 20
-Ki_gain: 1
-Generating trajectory
-Finished generating trajectory
-Generating full configuration csv file
-Generating Xerr csv file
-Plotting Xerr
